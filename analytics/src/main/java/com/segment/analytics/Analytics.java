@@ -10,7 +10,6 @@ import com.segment.analytics.internal.AnalyticsClient;
 import com.segment.analytics.internal.AnalyticsVersion;
 import com.segment.analytics.messages.Message;
 import com.segment.analytics.messages.MessageBuilder;
-
 import java.time.Instant;
 import java.util.ArrayList;
 import java.util.Arrays;
